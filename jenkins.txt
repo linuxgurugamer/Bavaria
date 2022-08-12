@@ -30,8 +30,6 @@
 # 3:SOURCEFILE, DESTDIR
 3:Bavaria.version,GameData/Bavaria
 
-9:Extras
-
 #
 # End of file
 #
