@@ -1,0 +1,15 @@
+Changelog
+
+	Fixed all attachnodes
+	DDSified all PNG files
+	Merged in the Bubble mod, which was released on Curseforge in 2014 and
+	then removed
+	Fixed BubbleChute orientation
+	Adjusted Bubblepod COG
+	Replaced ModuleRCS with ModuleRCSFX
+	Added basic descriptions to all part which didn't have any
+	Disabled duplicate parts (only difference being rotation)
+	Added bulkheadProfiles to all parts
+	Added NEEDS for all KAS and Firespitter modules
+	Added basic tags to all parts
+
