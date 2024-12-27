@@ -1,5 +1,9 @@
 Changelog
 
+0.1.0.1
+	Updated .version file to use github for versions
+	
+0.1.0
 	Fixed all attachnodes
 	DDSified all PNG files
 	Merged in the Bubble mod, which was released on Curseforge in 2014 and
@@ -8,7 +12,7 @@ Changelog
 	Adjusted Bubblepod COG
 	Replaced ModuleRCS with ModuleRCSFX
 	Added basic descriptions to all part which didn't have any
-	Disabled duplicate parts (only difference being rotation)
+	Disabled duplicate parts
 	Added bulkheadProfiles to all parts
 	Added NEEDS for all KAS and Firespitter modules
 	Added basic tags to all parts
