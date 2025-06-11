@@ -1,7 +1,13 @@
 Changelog
 
+0.1.1
+	Localization release
+
 0.1.0.1
 	Updated .version file to use github for versions
+	Copied web page into README.md
+	Enabled some disabled parts
+	Deleted unnecessary zip file
 	
 0.1.0
 	Fixed all attachnodes
